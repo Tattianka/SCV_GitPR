@@ -20,8 +20,19 @@ git status
 ```sh
 git add
 ```
+## Создание коммита
+```sh
+git commit -m “message”
+```
+## Вывод общей инфоормации по коммитам
 
-git commit -m "Message"
+*Вывод на экран истории всех коммитов с иъ хеш-кодами*
+```sh
 git log
+```
+
+
 git loge --oneline
 git checkout
+git checkout master
+git diff
