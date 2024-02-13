@@ -97,3 +97,4 @@ git merge name_branch
 ```sh
 git branch -d name_branch
 ```
+Например: ![alt text](image-8.png)
